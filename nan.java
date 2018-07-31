@@ -1,3 +1,5 @@
 public class nan{
-	system.out.println("Bello Nan");
+	public String getBello(){	
+		return "Bello Nan";
+	}
 }
