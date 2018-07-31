@@ -1,3 +1,4 @@
 public static void Main(String [] args) {
-	System.out.println("Hello, World");
+	Home home = new Home();
+	Menu menu = new Menu();
 }
